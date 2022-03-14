@@ -21,8 +21,9 @@ Differential Equations of Equilibrium, Hydrostatic and Deviatoric Components.
 1. Equations of Elasticity: Equations of Equilibrium, Stress-Strain relations, Strain Displacement and Compatibility Relations, Co-axiality of the Principal Directions.
 1. Two-Dimensional Problems of Elasticity: Plane Stress and Plane Strain Problems, Airy’s stress Function, Use of Airy’s function in beam analysis; Two-Dimensional Problems in Polar Coordinates
 1. Torsion of Prismatic Bars: Saint Venant’s Method, Prandtl’s Membrane Analogy, Torsion of Rectangular Bar, Torsion of Thin Tubes
-1. Plastic Deformation: Strain Hardening, Idealized Stress- Strain curve, Yield Criteria, von-Mises Yield Criterion, Tresca Yield Criterion, Plastic Stress-Strain Relations, Principle of Normality and
-Plastic Potential, Isotropic Hardening.
+1. Plastic Deformation: Strain Hardening, Idealized Stress- Strain curve, Yield Criteria, von-Mises Yield Criterion, Tresca Yield Criterion, Plastic Stress-Strain Relations, Principle of Normality and Plastic Potential, Isotropic Hardening.
+
+## Books
 
 1. Theory of Elasticity, Timoshenko S. and Goodier J. N., McGraw Hill
 2. Elasticity, Sadd M.H., Elsevier
