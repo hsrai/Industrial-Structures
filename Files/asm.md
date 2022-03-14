@@ -12,7 +12,7 @@ On completion of the course, the student will have the ability to:
 4. Develop constitutive relationships between stress and strain for linearly elastic solid.
 5. Understand the concept of stresses and strains in 2D
 6. Know the different theories for Torsion
-7. 
+
 ## Syllabus Content
 
 1. Elasticity: Displacement, Strain and Stress Fields, Constitutive Relations, Cartesian Tensors and Equations of Elasticity
