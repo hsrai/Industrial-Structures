@@ -46,3 +46,4 @@ buckling, buckling under combined loads.
 2. Principles of Structural Stability Theory, Alexander Chajes, Prentice Hall.
 3. Structural Stability of columns and plates, Iyengar, N. G. R., Eastern West Press Pvt. Ltd.
 4. Strength of Metal Structures, Bleich F. Bucking, Tata McGraw Hill.
+5. Elements of Matrix and Stability Analysis of Structures, V.K. Manicka Selvam, Khanna Publishers.
